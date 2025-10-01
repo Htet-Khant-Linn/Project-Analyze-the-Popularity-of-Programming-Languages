@@ -1,4 +1,17 @@
-.Rproj.user
+# History files
 .Rhistory
-.Ruserdata
+.Rapp.history
 
+# Session files
+.RData
+
+# User-specific files
+.Rproj.user/
+
+# R-generated files
+*.Rout
+*.RData
+
+# Temporary files from packages
+*.utf8.md
+*.knit.md
